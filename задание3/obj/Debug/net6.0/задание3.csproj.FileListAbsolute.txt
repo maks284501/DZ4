@@ -1,0 +1,15 @@
+D:\программирование\практика4\дз\задание3\bin\Debug\net6.0\задание3.exe
+D:\программирование\практика4\дз\задание3\bin\Debug\net6.0\задание3.deps.json
+D:\программирование\практика4\дз\задание3\bin\Debug\net6.0\задание3.runtimeconfig.json
+D:\программирование\практика4\дз\задание3\bin\Debug\net6.0\задание3.dll
+D:\программирование\практика4\дз\задание3\bin\Debug\net6.0\задание3.pdb
+D:\программирование\практика4\дз\задание3\obj\Debug\net6.0\задание3.csproj.AssemblyReference.cache
+D:\программирование\практика4\дз\задание3\obj\Debug\net6.0\задание3.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\практика4\дз\задание3\obj\Debug\net6.0\задание3.AssemblyInfoInputs.cache
+D:\программирование\практика4\дз\задание3\obj\Debug\net6.0\задание3.AssemblyInfo.cs
+D:\программирование\практика4\дз\задание3\obj\Debug\net6.0\задание3.csproj.CoreCompileInputs.cache
+D:\программирование\практика4\дз\задание3\obj\Debug\net6.0\задание3.dll
+D:\программирование\практика4\дз\задание3\obj\Debug\net6.0\refint\задание3.dll
+D:\программирование\практика4\дз\задание3\obj\Debug\net6.0\задание3.pdb
+D:\программирование\практика4\дз\задание3\obj\Debug\net6.0\задание3.genruntimeconfig.cache
+D:\программирование\практика4\дз\задание3\obj\Debug\net6.0\ref\задание3.dll
