@@ -1,17 +1,16 @@
-﻿// Запрос числа от пользователя
-Console.Write("Введите число: ");
+﻿Console.Write("Введите первое число: ");
 int number = Convert.ToInt32(Console.ReadLine());
-
-int num=0;
+Console.Write("Введите второе число: ");
+int num = Convert.ToInt32(Console.ReadLine());
+int number1=number;
+int sum=1;
 
 // Условие
-while (number>0)
+while (sum<num)
 {
-  num=((number%10)+num);
- number=number/10;
-  
-
+number=number*number1;
+sum=sum+1;
 
 }
 
-Console.WriteLine($"Количество: {num}");
+Console.WriteLine($"Ответ: {number}");
